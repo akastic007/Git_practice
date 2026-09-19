@@ -1,10 +1,5 @@
 Hi this sie akshay
-python
-java  
-
-
---------------------------
+i am devops engineer
 
 
 
-computter engineering
